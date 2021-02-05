@@ -24,7 +24,7 @@
     "@angular/router": "~10.0.5",
     "@ng-bootstrap/ng-bootstrap": "^8.0.0",
     "angularfire2": "^5.4.2",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^4.6.0",
     "bulma": "^0.9.1",
     "firebase": "^7.24.0",
     "promise-polyfill": "8.2.0",
